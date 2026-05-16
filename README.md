@@ -1,3 +1,5 @@
+<img width="1152" height="252" alt="discord-notification-result" src="https://github.com/user-attachments/assets/f8cd48ac-9a0f-431d-9f64-053f37c3e791" />
+<img width="1894" height="871" alt="Discord ポートフォリオ" src="https://github.com/user-attachments/assets/9c2f5dd5-b18f-4d1e-8a74-46903434539c" />
 # AI Discord Notification Automation
 
 ## Overview
