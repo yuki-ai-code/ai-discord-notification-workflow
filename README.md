@@ -1,11 +1,9 @@
-# AI Discord Notification Automation
+# AI Discord Notification Workflow
 
 ## Overview
-This project is an AI automation workflow built using n8n, OpenAI API, and Discord Webhook.
+AI-powered notification automation workflow built with n8n, OpenAI API, and Discord Webhook.
 
-The workflow automatically generates AI responses and sends notifications to Discord.
-
----
+The workflow automatically generates AI responses and sends real-time notifications to Discord channels.
 
 ## Technologies Used
 - n8n
@@ -15,19 +13,15 @@ The workflow automatically generates AI responses and sends notifications to Dis
 - JSON
 - HTTP Request
 
----
-
 ## Workflow Structure
 
-When clicking 'Execute workflow'
+When clicking 'Execute Workflow'
 ↓
 Prepare Input
 ↓
 Generate AI Response
 ↓
 Send Discord Notification
-
----
 
 ## Features
 - OpenAI API integration
@@ -36,17 +30,13 @@ Send Discord Notification
 - Workflow automation using n8n
 - Docker-based local environment
 
----
-
 ## Screenshots
-<img width="1894" height="871" alt="Discord ポートフォリオ" src="https://github.com/user-attachments/assets/47dc5ef2-8bd4-4f1a-8d2e-583ac19696f1" />
-<img width="1152" height="252" alt="discord-notification-result" src="https://github.com/user-attachments/assets/e5648a40-e279-4816-ac63-b4eb0f24fde6" />
 
-### n8n Workflow
+### Workflow Overview
+![Workflow Overview](screenshots/discord-workflow-overview.png)
 
 ### Discord Notification Result
-
----
+![Discord Notification Result](screenshots/discord-notification-result.png)
 
 ## Future Improvements
 - Scheduled automation
